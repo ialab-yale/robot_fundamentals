@@ -1,13 +1,14 @@
 <mujoco model="panda">
   <compiler angle="radian" meshdir="assets" />
 
-  <option integrator="implicit"/>
+  <option integrator="implicit" gravity="0 0 -9.81"/>
 
   <default>
     <default class="panda">
       <material specular="0.5" shininess="0.25"/>
       <joint armature="0.1" damping="1" axis="0 0 1" range="-2.8973 2.8973"/>
-      <general dyntype="none" biastype="affine" ctrlrange="-2.8973 2.8973" forcerange="-87 87"/>
+      <!-- <general dyntype="none" biastype="affine" ctrlrange="-2.8973 2.8973" forcerange="-87 87"/> -->
+      <general dyntype="none" forcerange="-87 87"/>
       <default class="finger">
         <joint axis="0 1 0" type="slide" range="0 0.04"/>
       </default>
@@ -217,10 +218,12 @@
                         <geom mesh="hand_3" material="white" class="visual"/>
                         <geom mesh="hand_4" material="off_white" class="visual"/>
                         <geom mesh="hand_c" class="collision"/>
+                          <site name="ee_site" pos="0 0 0.1" euler="0 0 -1.57079" size="0.05 0.05 0.05" type="sphere" rgba="0 0 0.5 0.5"/>
+
                         <body name="left_finger" pos="0 0 0.0584">
                           <inertial mass="0.015" pos="0 0 0"
                               diaginertia="2.375e-6 2.375e-6 7.5e-7"/>
-                          <joint name="finger_joint1" class="finger"/>
+                          <!-- <joint name="finger_joint1" class="finger"/> -->
                           <geom mesh="finger_0" material="off_white" class="visual"/>
                           <geom mesh="finger_1" material="black" class="visual"/>
                           <geom mesh="finger_0" class="collision"/>
@@ -233,7 +236,7 @@
                         <body name="right_finger" pos="0 0 0.0584" quat="0 0 0 1">
                           <inertial mass="0.015" pos="0 0 0"
                               diaginertia="2.375e-6 2.375e-6 7.5e-7"/>
-                          <joint name="finger_joint2" class="finger"/>
+                          <!-- <joint name="finger_joint2" class="finger"/> -->
                           <geom mesh="finger_0" material="off_white" class="visual"/>
                           <geom mesh="finger_1" material="black" class="visual"/>
                           <geom mesh="finger_0" class="collision"/>
@@ -266,41 +269,16 @@
     </fixed>
   </tendon> -->
 
-  <equality>
+  <!-- <equality>
     <joint joint1="finger_joint1" joint2="finger_joint2" solimp="0.95 0.99 0.001" solref="0.005 1"/>
-  </equality>
+  </equality> -->
 
-  <actuator>
-    <velocity class="panda" name="actuator1" joint="joint1" kv="100" />
-    <velocity class="panda" name="actuator2" joint="joint2" kv="100" />
-    <velocity class="panda" name="actuator3" joint="joint3" kv="100" />
-    <velocity class="panda" name="actuator4" joint="joint4" kv="100" />
-    <velocity class="panda" name="actuator5" joint="joint5" kv="100" />
-    <velocity class="panda" name="actuator6" joint="joint6" kv="100" />
-    <velocity class="panda" name="actuator7" joint="joint7" kv="100" />
-    <!-- <velocity class="panda" name="actuator8" tendon="split" forcerange="-100 100" ctrlrange="0 255" gainprm="0.01568627451 0 0" biasprm="0 -100 -10"/> -->
-  </actuator>
-
-  <!-- <actuator>
-    <general class="panda" name="actuator1" joint="joint1" gainprm="4500" biasprm="0 -4500 -450"/>
-    <general class="panda" name="actuator2" joint="joint2" gainprm="4500" biasprm="0 -4500 -450"
-        ctrlrange="-1.7628 1.7628"/>
-    <general class="panda" name="actuator3" joint="joint3" gainprm="3500" biasprm="0 -3500 -350"/>
-    <general class="panda" name="actuator4" joint="joint4" gainprm="3500" biasprm="0 -3500 -350"
-        ctrlrange="-3.0718 -0.0698"/>
-    <general class="panda" name="actuator5" joint="joint5" gainprm="2000" biasprm="0 -2000 -200"
-        forcerange="-12 12"/>
-    <general class="panda" name="actuator6" joint="joint6" gainprm="2000" biasprm="0 -2000 -200"
-        forcerange="-12 12" ctrlrange="-0.0175 3.7525"/>
-    <general class="panda" name="actuator7" joint="joint7" gainprm="2000" biasprm="0 -2000 -200"
-        forcerange="-12 12"/>
-    <general class="panda" name="actuator8" tendon="split" forcerange="-100 100" ctrlrange="0 255"
-        gainprm="0.01568627451 0 0" biasprm="0 -100 -10"/>
-  </actuator> -->
-    <!-- Remap original ctrlrange (0, 0.04) to (0, 255): 0.04 * 100 / 255 = 0.01568627451 -->
 
   <!-- <keyframe>
     <key name="home" qpos="0 0 0 -1.57079 0 1.57079 -0.7853 0.04 0.04"
         ctrl="0 0 0 -1.57079 0 1.57079 -0.7853 255"/>
   </keyframe> -->
+  <keyframe>
+    <key name="home" qpos="0 0 0 -1.57079 0 1.57079 -0.7853"/>
+  </keyframe>
 </mujoco>
