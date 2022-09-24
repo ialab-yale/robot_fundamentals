@@ -18,7 +18,7 @@ class Autograder(object):
         R1 = np.eye(3)
         R2 = Rotation.from_rotvec(np.pi/2 * np.array([0, 0, 1])).as_matrix()
         err = np.pi/2.0 * np.array([0., 0., -1])
-        if np.isclose(rot_err(R1, R2), err).any():
+        if np.isclose(rot_err(R1, R2), err).all():
             print('Passed Debug test')
         else:
             print('did not pass debug test')
