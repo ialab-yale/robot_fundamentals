@@ -20,6 +20,6 @@ class BallViewer(Visualizer):
         x,z,th = q
         tf = mc_trans.compose_matrix(
                         translate=[x,0,z], 
-                        angles=[0.,th,0.]
+                        angles=[0.,-th,0.]
             )
         self._body.set_transform(tf)
