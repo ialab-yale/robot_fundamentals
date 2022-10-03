@@ -11,10 +11,11 @@ class BallViewer(Visualizer):
         self._body.set_object(
             mc_geom.Sphere(radius),
             mc_geom.MeshLambertMaterial(
-                    color=0x00ff00,
-                    opacity=0.5,
-                    wireframe=True,
-                    reflectivity=0.8)
+                    # color=0x00ff00,
+                    # opacity=0.5,
+                    reflectivity=0.8,
+                    map=mc_geom.ImageTexture(image=mc_geom.PngImage.from_file('./BeachBallColor.jpg'))
+                    )
         )
     def render(self, q):
         x,z,th = q
