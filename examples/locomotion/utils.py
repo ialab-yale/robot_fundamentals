@@ -1,5 +1,5 @@
 import numpy as np
-from numpy.linalg import inv 
+from numpy.linalg import inv, pinv
 import scipy as sp
 import mujoco
 
@@ -92,4 +92,4 @@ def getOSMassMatrix(mass_matrix, jac):
         This function takes in the mass matrix and a jacobian matrix and returns 
         the operational space matrix M_x(q) = (J M^{-1} J.T)^{-1}
     """
-    return inv(jac@np.linalg.inv(mass_matrix)@jac.T)
+    return pinv(jac@np.linalg.inv(mass_matrix)@jac.T)
