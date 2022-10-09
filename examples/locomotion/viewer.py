@@ -9,18 +9,6 @@ l1 = 1.0
 l2 = 1.0 
 m1 = 1.0 
 m2 = 1.0
-# def p1(q):
-#     th1, th2 = q
-#     return np.array([
-#         l1 * np.sin(th1),
-#         -l1 * np.cos(th1)
-#     ])
-# def p2(q):
-#     th1, th2 = q
-#     return p1(q) + np.array([
-#         l2 * np.sin(th1+th2),
-#         -l2 * np.cos(th1+th2)
-#     ])
 
 class DoublePendViewer(Visualizer):
     def __init__(self) -> None:
