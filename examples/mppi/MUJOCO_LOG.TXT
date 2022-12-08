@@ -1,0 +1,240 @@
+Wed Dec  7 21:23:39 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 1.0000.
+
+Wed Dec  7 21:23:39 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 1.0000.
+
+Wed Dec  7 21:23:39 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 1.0000.
+
+Wed Dec  7 21:23:39 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 1.0000.
+
+Wed Dec  7 21:23:39 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 1.0000.
+
+Wed Dec  7 21:23:39 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 1.0000.
+
+Wed Dec  7 21:23:39 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 1.0000.
+
+Wed Dec  7 21:23:39 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 1.0000.
+
+Wed Dec  7 21:23:39 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 1.0000.
+
+Wed Dec  7 21:23:39 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 1.0000.
+
+Wed Dec  7 21:23:39 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 1.0000.
+
+Wed Dec  7 21:23:39 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 1.0000.
+
+Wed Dec  7 21:23:39 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 1.0000.
+
+Wed Dec  7 21:23:39 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 1.0000.
+
+Wed Dec  7 21:23:39 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 1.0000.
+
+Wed Dec  7 21:23:39 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 1.0000.
+
+Wed Dec  7 21:23:39 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 1.0000.
+
+Wed Dec  7 21:23:39 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 1.0000.
+
+Wed Dec  7 21:23:39 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 1.0000.
+
+Wed Dec  7 21:23:39 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 1.0000.
+
+Wed Dec  7 21:24:25 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 2.0000.
+
+Wed Dec  7 21:24:25 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 2.0000.
+
+Wed Dec  7 21:24:25 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 2.0000.
+
+Wed Dec  7 21:24:25 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 2.0000.
+
+Wed Dec  7 21:24:25 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 2.0000.
+
+Wed Dec  7 21:24:25 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 2.0000.
+
+Wed Dec  7 21:24:25 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 2.0000.
+
+Wed Dec  7 21:24:25 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 2.0000.
+
+Wed Dec  7 21:24:25 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 2.0000.
+
+Wed Dec  7 21:24:25 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 2.0000.
+
+Wed Dec  7 21:24:25 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 2.0000.
+
+Wed Dec  7 21:24:25 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 2.0000.
+
+Wed Dec  7 21:24:25 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 2.0000.
+
+Wed Dec  7 21:24:25 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 2.0000.
+
+Wed Dec  7 21:24:25 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 2.0000.
+
+Wed Dec  7 21:24:25 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 2.0000.
+
+Wed Dec  7 21:24:25 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 2.0000.
+
+Wed Dec  7 21:24:25 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 2.0000.
+
+Wed Dec  7 21:24:25 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 2.0000.
+
+Wed Dec  7 21:24:25 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 2.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
+Wed Dec  7 21:35:29 2022
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 3.0000.
+
