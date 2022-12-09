@@ -138,7 +138,7 @@ def run_mpc():
         'qpos' : data.qpos.copy(),
         'qvel' : data.qvel.copy()
     }
-    # note we change the parameters of mppi so it can run a bit faster 
+    # note we change the parameters of mppi so it can run a bit faster
     mppi = MPPI(xml_path, running_cost, time_horizon=60, n_samples=20, var=0.4, time_skip=time_skip)
 
 
@@ -171,5 +171,5 @@ if __name__=="__main__":
 
     # comment/uncomment the method you would like to try 
 
-    run_open_loop()
-    # run_mpc()
+    #run_open_loop()
+    run_mpc()
