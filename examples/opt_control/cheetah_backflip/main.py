@@ -87,11 +87,17 @@ class MPPI(object):
                 self.u_mean[t] += np.dot(_w, eps[:,t,:])
             
 
+# def running_cost(data, u):
+#     rot = data.qpos[2]
+#     x_pos = data.qpos[0]
+#     x_vel = data.qvel[0]
+#     return   (x_pos)**2 + (rot-(-2*np.pi))**2
+
 def running_cost(data, u):
     rot = data.qpos[2]
     x_pos = data.qpos[0]
     x_vel = data.qvel[0]
-    return   (x_pos)**2 + (rot-(-2*np.pi))**2
+    return   -x_vel + (rot)**2
 
 def run_open_loop():
 
@@ -105,6 +111,7 @@ def run_open_loop():
         'qpos' : data.qpos.copy(),
         'qvel' : data.qvel.copy()
     }
+
     mppi = MPPI(xml_path, running_cost, time_skip=time_skip)
 
     print('----calculating control please wait ----')
